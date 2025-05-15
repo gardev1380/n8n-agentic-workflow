@@ -26,7 +26,7 @@ You can import this workflow into your n8n instance by using the provided `workf
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/oleksissuper/n8n-agentic-workflow.git
+   git clone https://github.com/gardev1380/n8n-agentic-workflow.git
    ```
 
 2. Navigate to your n8n instance.
